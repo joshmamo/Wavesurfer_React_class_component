@@ -1,12 +1,16 @@
 {
-  "name": "wavesurfer-react-class-component",
+  "name": "git-wavesurfer-select-and-play-a-region",
   "version": "0.0.51",
-  "description": null,
+  "description": "",
   "keywords": [],
   "main": "index.js",
   "dependencies": {
     "react": "16.13.1",
+    "react-audio-recorder": "2.2.0",
     "react-dom": "16.13.1",
+    "react-mic": "12.4.1",
+    "react-scripts": "3.4.1",
+    "recorder-js": "1.0.7",
     "wavesurfer.js": "2.0.0-beta02"
   },
   "devDependencies": {
